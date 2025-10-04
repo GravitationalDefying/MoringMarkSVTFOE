@@ -24,6 +24,8 @@ The website is hosted by an `s3`, proxied by `cloudfront`.
 
 Two ECS tasks (built by github actions) process reddit posts and store them in `s3`, simple stuff.
 
+However, HakierGronzo was very helpful with the project and I couldn't do it without him.
+
 
 ## How to develop
 
