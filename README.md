@@ -1,8 +1,8 @@
 # MoringMark Archive
 
-https://moringmark.grzegorzkoperwas.site/
 
-An archive of **The Owl House** comics made by [u/makmark](https://www.reddit.com/user/makmark) and posted to the subreddit.
+
+An archive of **SVTFOE** comics made by [u/makmark](https://www.reddit.com/user/makmark) and posted to the subreddit.
 
 Made cause I wanted to read all the parts of [Grom Factor](https://moringmark.grzegorzkoperwas.site/comic/Grom%20Factor/) in order.
 
