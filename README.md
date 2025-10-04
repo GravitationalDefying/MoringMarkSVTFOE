@@ -4,7 +4,7 @@
 
 An archive of **SVTFOE** comics made by [u/makmark](https://www.reddit.com/user/makmark) and posted to the subreddit.
 
-Made cause I wanted to read all the parts of [Grom Factor](https://moringmark.grzegorzkoperwas.site/comic/Grom%20Factor/) in order.
+Made cause I was bored.
 
 ## Features:
 
